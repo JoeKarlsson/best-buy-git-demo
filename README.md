@@ -9,8 +9,10 @@ To publish changes to the official project, developers “push” their local ma
 
 ## Contributors:
 Peter Nelson
+Amin Kedir
 Tim Oehler
 Keenan Bailles
+
 
 ## Additional Resources
 
