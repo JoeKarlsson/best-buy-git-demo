@@ -9,6 +9,7 @@ To publish changes to the official project, developers “push” their local ma
 
 ## Contributors:
 
+Keenan Bailles
 
 
 ## Additional Resources
