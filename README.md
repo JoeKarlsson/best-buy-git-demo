@@ -15,6 +15,7 @@ To publish changes to the official project, developers “push” their local ma
 - Amin Kedir
 - Tim Oehler
 - Keenan Bailles
+- John O'Neill
 
 
 ## Additional Resources
