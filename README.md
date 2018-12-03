@@ -3,30 +3,36 @@
 ![Git XKCD](https://imgs.xkcd.com/comics/git.png)
 
 ### Centralized Workflow
-  - Developers start by cloning the central repository. In their own local copies of the project, they edit files and commit changes as they would with SVN; however, these new commits are stored locally—they’re completely isolated from the central repository. This lets developers defer synchronizing upstream until they’re at a convenient break point.
+
+- Developers start by cloning the central repository. In their own local copies of the project, they edit files and commit changes as they would with SVN; however, these new commits are stored locally—they’re completely isolated from the central repository. This lets developers defer synchronizing upstream until they’re at a convenient break point.
 
 To publish changes to the official project, developers “push” their local master branch to the central repository. This is the equivalent of svn commit, except that it adds all of the local commits that aren’t already in the central master branch.
 
 ## Contributors:
 
-
+- Joe Karlsson
 
 ## Additional Resources
 
 #### Git Branching Practice
+
 - Distribute this resource : [http://learngitbranching.js.org](http://learngitbranching.js.org/)
 
 #### Comparing Git Workflows
+
 - Link [Comparing Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow/)
 
 #### Git Tips
+
 - Link [Git Tips](https://git.wiki.kernel.org/index.php/GitTips)
 
 #### Git Immersion
+
 - Link [Git Immersion](http://gitimmersion.com/)
 - Notes: Great Git interative tutorial
 
 #### Getting Git Right
+
 - Link [Getting Git Right](https://www.atlassian.com/git/)
 - [A practical git introduction](http://marc.helbling.fr/2014/09/practical-git-introduction)
 - [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html) - Mark Lodato
@@ -40,7 +46,7 @@ To publish changes to the official project, developers “push” their local ma
 - [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
 - [Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561/index.html) - Richard E. Silverman
 - [Git Reference](http://gitref.org)
-- [Git Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/git) (PDF, Kindle) *(Just fill the fields with any values)*
+- [Git Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/git) (PDF, Kindle) _(Just fill the fields with any values)_
 - [Git Workflows](http://documentup.com/skwp/git-workflows-book)
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown)
 - [Intoduction to Git and Github](https://launchschool.com/books/git) - Launch School
