@@ -8,8 +8,12 @@
 To publish changes to the official project, developers “push” their local master branch to the central repository. This is the equivalent of svn commit, except that it adds all of the local commits that aren’t already in the central master branch.
 
 ## Contributors:
+
+
+Amin Kedir
 Tim Oehler
 Keenan Bailles
+
 
 ## Additional Resources
 
